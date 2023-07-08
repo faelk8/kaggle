@@ -11,3 +11,11 @@ Competição de machine e deep learning no Kaggle
 - CatBoost
 - XGBoost
 - LGBM
+
+# Play_Groud_3_2_vs_1.0.ipynb
+- KKN - Missing Values
+- UMAP
+- Remover Outlier com UMAP
+- StratifiedKFold
+- CatBoost
+- Tensorflow
