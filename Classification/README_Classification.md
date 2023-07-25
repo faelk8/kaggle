@@ -41,3 +41,14 @@ Cancelamento de reservas
 - XGBClassifier
 - LGBClassifier
 - CatBoostClassifier
+
+# Play_Groud_3_7 v1
+Probabilidade de bancelamento de reservas
+- StratifiedKFold
+- CatBoostClassifier
+
+# Play_Groud_3_7 v2
+Probabilidade de bancelamento de reservas
+- StratifiedKFold
+- KNN
+- CatBoostClassifier
