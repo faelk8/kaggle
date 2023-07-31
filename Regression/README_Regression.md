@@ -28,3 +28,7 @@ Modelo para prever preço de casa
     - Escala
     - Correlação
     - XGBRegressor     
+
+Play_Groud_3_9
+   - StratifiedKFold    
+   - CatBoostRegressor
